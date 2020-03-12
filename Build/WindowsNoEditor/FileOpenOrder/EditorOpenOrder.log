@@ -1,4 +1,4 @@
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/GAME2373_Proj01.uproject" 1
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/GAME2373_Proj01.uproject" 1
 "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
 "../../../Engine/Plugins/AI/AISupport/AISupport.uplugin" 3
 "../../../Engine/Plugins/AI/HTNPlanner/HTNPlanner.uplugin" 4
@@ -291,42 +291,42 @@
 "../../../Engine/Content/Internationalization/icudt64l/en.res" 291
 "../../../Engine/Content/Internationalization/icudt64l/root.res" 292
 "../../../Engine/Content/Internationalization/icudt64l/supplementalData.res" 293
-"C:/Users/Administrator/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/Manifest.ini" 294
+"C:/Users/w207710223/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/Manifest.ini" 294
 "../../../Engine/Config/Base.ini" 295
 "../../../Engine/Config/BaseEngine.ini" 296
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Config/DefaultEngine.ini" 297
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Config/DefaultEngine.ini" 297
 "../../../Engine/Config/Windows/WindowsEngine.ini" 298
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Engine.ini" 299
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Engine.ini" 299
 "../../../Engine/Config/BaseGame.ini" 300
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Config/DefaultGame.ini" 301
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Config/DefaultGame.ini" 301
 "../../../Engine/Config/Windows/WindowsGame.ini" 302
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Game.ini" 303
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Game.ini" 303
 "../../../Engine/Config/BaseInput.ini" 304
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Config/DefaultInput.ini" 305
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Input.ini" 306
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Config/DefaultInput.ini" 305
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Input.ini" 306
 "../../../Engine/Config/BaseEditor.ini" 307
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Config/DefaultEditor.ini" 308
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Editor.ini" 309
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Config/DefaultEditor.ini" 308
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Editor.ini" 309
 "../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 310
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Config/DefaultEditorPerProjectUserSettings.ini" 311
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 312
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Config/DefaultEditorPerProjectUserSettings.ini" 311
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 312
 "../../../Engine/Config/BaseEditorSettings.ini" 313
-"C:/Users/Administrator/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorSettings.ini" 314
+"C:/Users/w207710223/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorSettings.ini" 314
 "../../../Engine/Config/BaseEditorKeyBindings.ini" 315
-"C:/Users/Administrator/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorKeyBindings.ini" 316
-"C:/Users/Administrator/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini" 317
+"C:/Users/w207710223/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorKeyBindings.ini" 316
+"C:/Users/w207710223/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini" 317
 "../../../Engine/Config/BaseCompat.ini" 318
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Compat.ini" 319
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Compat.ini" 319
 "../../../Engine/Config/BaseLightmass.ini" 320
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Lightmass.ini" 321
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Lightmass.ini" 321
 "../../../Engine/Config/BaseScalability.ini" 322
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Scalability.ini" 323
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Scalability.ini" 323
 "../../../Engine/Config/BaseHardware.ini" 324
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Hardware.ini" 325
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Hardware.ini" 325
 "../../../Engine/Config/BaseRuntimeOptions.ini" 326
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/RuntimeOptions.ini" 327
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/RuntimeOptions.ini" 327
 "../../../Engine/Config/BaseGameUserSettings.ini" 328
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/GameUserSettings.ini" 329
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/GameUserSettings.ini" 329
 "../../../Engine/Config/Android/DataDrivenPlatformInfo.ini" 330
 "../../../Engine/Config/HoloLens/DataDrivenPlatformInfo.ini" 331
 "../../../Engine/Config/IOS/DataDrivenPlatformInfo.ini" 332
@@ -337,17 +337,17 @@
 "../../../Engine/Config/TVOS/DataDrivenPlatformInfo.ini" 337
 "../../../Engine/Config/Windows/DataDrivenPlatformInfo.ini" 338
 "../../../Engine/Plugins/2D/Paper2D/Config/BasePaper2D.ini" 339
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/Paper2D.ini" 340
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/Paper2D.ini" 340
 "../../../Engine/Plugins/Enterprise/VariantManagerContent/Config/BaseVariantManagerContent.ini" 341
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/VariantManagerContent.ini" 342
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/VariantManagerContent.ini" 342
 "../../../Engine/Plugins/Lumin/MagicLeap/Config/BaseMagicLeap.ini" 343
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/MagicLeap.ini" 344
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/MagicLeap.ini" 344
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Config/BaseOculusVR.ini" 345
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/OculusVR.ini" 346
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/OculusVR.ini" 346
 "../../../Engine/Plugins/Runtime/PhysXVehicles/Config/BasePhysXVehicles.ini" 347
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/PhysXVehicles.ini" 348
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/PhysXVehicles.ini" 348
 "../../../Engine/Plugins/Runtime/PostSplashScreen/Config/BasePostSplashScreen.ini" 349
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/PostSplashScreen.ini" 350
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/PostSplashScreen.ini" 350
 "../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor.modules" 351
 "../../../Engine/Plugins/AI/AISupport/Binaries/Win64/UE4Editor.modules" 352
 "../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor.modules" 353
@@ -424,7 +424,7 @@
 "../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor.modules" 424
 "../../../Engine/Content/Certificates/ThirdParty/cacert.pem" 425
 "../../../Engine/Config/BaseDeviceProfiles.ini" 426
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/DeviceProfiles.ini" 427
+"C:/Users/w207710223/Documents/GitHub/GAME2373_Project01/Saved/Config/Windows/DeviceProfiles.ini" 427
 "../../../Engine/Config/ConsoleVariables.ini" 428
 "../../../Engine/Content/Localization/Editor/en/Editor.locres" 429
 "../../../Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 430
@@ -1798,7 +1798,7 @@
 "../../../Engine/Shaders/Private/Tools/FullscreenVertexShader.usf" 1798
 "../../../Engine/Shaders/Private/ClearReplacementShaders.usf" 1799
 "../../../Engine/Shaders/Private/RayTracing/RayTracingBuiltInShaders.usf" 1800
-"C:/Users/Administrator/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc" 1801
+"C:/Users/w207710223/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc" 1801
 "../../../Engine/DerivedDataCache/Compressed.ddp" 1802
 "../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 1803
 "../../../Engine/Content/EditorResources/S_Actor.uasset" 1804
@@ -1887,16 +1887,16 @@
 "../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 1887
 "../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 1888
 "../../../Engine/Content/EditorResources/S_Solver.uasset" 1889
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/2657c409.bin" 1890
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/866581fd.bin" 1891
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/8c0e1344.bin" 1892
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/6bead350.bin" 1893
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/50a675f9.bin" 1894
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/8e9331e2.bin" 1895
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/52ed2538.bin" 1896
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/f0d5030c.bin" 1897
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/d63b3057.bin" 1898
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/1f683343.bin" 1899
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/2657c409.bin" 1890
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/866581fd.bin" 1891
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/8c0e1344.bin" 1892
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/6bead350.bin" 1893
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/50a675f9.bin" 1894
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/8e9331e2.bin" 1895
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/52ed2538.bin" 1896
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/f0d5030c.bin" 1897
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/d63b3057.bin" 1898
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/1f683343.bin" 1899
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 1900
 "../../../Engine/Content/Internationalization/icudt64l/coll/ucadata.icu" 1901
 "../../../Engine/Content/Internationalization/icudt64l/coll/en.res" 1902
@@ -1904,270 +1904,267 @@
 "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 1904
 "../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1905
 "../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 1906
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1907
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 1908
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1909
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1910
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1911
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1912
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1913
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1914
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1915
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1916
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1917
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1918
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1919
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1920
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1921
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1922
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1923
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 1924
-"C:/Users/Administrator/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/SourceControlSettings.ini" 1925
-"C:/Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Saved/Config/Windows/SourceControlSettings.ini" 1926
-"../../../Engine/Content/EditorResources/S_Note.uasset" 1927
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 1928
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 1929
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 1930
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1931
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1932
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1933
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1934
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1935
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1936
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1937
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1938
-"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 1939
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1940
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 1941
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 1942
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1943
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1944
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 1945
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1946
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1947
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1948
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1949
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1950
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1951
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1952
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1953
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1954
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 1955
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1956
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/c90e3f55.bin" 1957
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Architecture/Floor_400x400.uasset" 1958
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/TitleScene.umap" 1959
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Tutorial.umap" 1960
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Demo.umap" 1961
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/EndingScene.umap" 1962
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1963
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1964
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1965
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1966
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1967
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1968
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1969
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Intermediate/AssetRegistryCache/80733c15.bin" 1970
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 1971
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Maps/Minimal_Default.umap" 1972
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Maps/StarterMap.umap" 1973
-"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1974
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 1975
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 1976
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/2DSideScrollerGameMode.uasset" 1977
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/MyCharacter.uasset" 1978
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Background.uasset" 1979
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Checkpoint.uasset" 1980
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_1.uasset" 1981
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_2.uasset" 1982
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_5.uasset" 1983
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_EdgeL.uasset" 1984
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_EdgeR.uasset" 1985
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Goal.uasset" 1986
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Objects/Spike.uasset" 1987
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1988
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1989
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1990
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1991
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1992
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1993
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1994
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1995
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1996
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1997
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1998
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1999
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 2000
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 2001
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 2002
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 2003
-"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 2004
-"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 2005
-"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 2006
-"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 2007
-"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 2008
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 2009
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 2010
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 2011
-"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 2012
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 2013
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 2014
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 2015
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 2016
-"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 2017
-"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 2018
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 2019
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 2020
-"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 2021
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 2022
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 2023
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 2024
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 2025
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 2026
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 2027
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 2028
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 2029
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 2030
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 2031
-"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 2032
-"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 2033
-"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 2034
-"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 2035
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 2036
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 2037
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 2038
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 2039
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 2040
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 2041
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 2042
-"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 2043
-"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 2044
-"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 2045
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 2046
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 2047
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 2048
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 2049
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 2050
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 2051
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 2052
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 2053
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 2054
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 2055
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 2056
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 2057
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 2058
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 2059
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 2060
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 2061
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 2062
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 2063
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 2064
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 2065
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 2066
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 2067
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 2068
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Widgets/EndingMenu.uasset" 2069
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Widgets/LevelComplete.uasset" 2070
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Widgets/LevelComplete2.uasset" 2071
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Widgets/LostMenu.uasset" 2072
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Widgets/MyHUD.uasset" 2073
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Widgets/PauseMenu.uasset" 2074
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Widgets/TitleMenu.uasset" 2075
-"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 2076
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 2077
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 2078
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 2079
-"../../../Engine/Config//BaseEngine.ini" 2080
-"../../../Engine/Config/Unix/UnixEngine.ini" 2081
-"../../../Engine/Config/Linux/LinuxEngine.ini" 2082
-"../../../Engine/Config/LinuxAArch64/LinuxAArch64Engine.ini" 2083
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2084
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2085
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 2086
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 2087
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Flipbook/DeadAnimation.uasset" 2088
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/ball_pop_2x_Sprite.uasset" 2089
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Flipbook/IdleAnimation.uasset" 2090
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/ball_small_2x_Sprite.uasset" 2091
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 2092
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Cues/Big_Jump_Cue.uasset" 2093
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Big_Jump.uasset" 2094
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Cues/Coin_Cue.uasset" 2095
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Coin.uasset" 2096
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/ui_bounce_block_2x.uasset" 2097
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/ball_small_2x.uasset" 2098
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/ball_pop_2x.uasset" 2099
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/5/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_22F4243F40DD14C518570AA38D6DDF27.udd" 2100
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_697C5D994F07E4925B96CC814D9C0D4B.udd" 2101
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_E75DC5924387A4674383CA8B27B6B__6DF2D57350F9389D363386D7905B3BD2EF863F6E.udd" 2102
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_70B56459468B36FB9A5E0CA799B32__58B015B31BF2C97A34E6B12A3AE8FEAE5D943284.udd" 2103
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_82AFDF684EEF2A4476B6B09600237__290E2DCFE97F58B8AE8B6D2F04EA30888ED58289.udd" 2104
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2105
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2106
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Cues/10_Ending_Cue.uasset" 2107
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/10_Ending.uasset" 2108
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/2/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_9CECAED54C44AE64DE048BBA66B0E7B9.udd" 2109
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2110
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 2111
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Background_Sprite1.uasset" 2112
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Cues/03_Stage_Theme_Cue.uasset" 2113
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/03_Stage_Theme.uasset" 2114
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Cues/08_Life_Lost_Cue.uasset" 2115
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/08_Life_Lost.uasset" 2116
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/ring_big_bottom_2x_Sprite.uasset" 2117
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/ring_big_catched_bottom_2x_Sprite.uasset" 2118
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/ring_big_catched_top_2x_Sprite.uasset" 2119
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/ring_big_top_2x_Sprite.uasset" 2120
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Cues/1up_Cue.uasset" 2121
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/1up.uasset" 2122
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/ui_ground_block_2x_Sprite.uasset" 2123
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/checkpoint_2x_Sprite.uasset" 2124
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/05_Stage_Complete.uasset" 2125
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Sprite/thorn_2x_Sprite.uasset" 2126
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Cues/Kick_Cue.uasset" 2127
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Kick.uasset" 2128
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/6/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_FF6AF598455B3E70FCB2558F365CA1FF.udd" 2129
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/thorn_2x.uasset" 2130
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/3/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_2FDD22A742088CE9CFAAB0A13E88A7B7.udd" 2131
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Background.uasset" 2132
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_3406A3D84705798C35E90983E5DE0885.udd" 2133
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_C815804C41D4EA225AAB12B9C95C3A7F.udd" 2134
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/ring_big_top_2x.uasset" 2135
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/ring_big_catched_top_2x.uasset" 2136
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/ring_big_catched_bottom_2x.uasset" 2137
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/ring_big_bottom_2x.uasset" 2138
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/4/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_4289AA75448068EAE6995D85B0FE17E5.udd" 2139
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/checkpoint_2x.uasset" 2140
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Character/Textures/ui_ground_block_2x.uasset" 2141
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_CCF023C24A502EEEEAE7D384EC611__4BB244985420B5364E8F3BB0FF543C9702ADD62E.udd" 2142
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_6269A5DA4AEB5DB17536A7A52B0E4__C31E49EC7EFEEA791BC1219F99E8D5CBFD1F8E92.udd" 2143
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_41E95B42459219C9D486099D45982__370620DBA89C5A82736E253362FE3D7BAA66D846.udd" 2144
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7C68BA954B8F6A3BCD75D3B3B57C2__E8F98BB4AC84D28F421786E9FC09004F7975924A.udd" 2145
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_CAA6CF1048496AB683DD249EDEF64__776C73809F802EEC3737E4FD5A3A240E0E14F2C4.udd" 2146
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_224548F848F0D1B529A9EB9F7E446__D0D9ABF7F4D5ED6E47F97D96B93FB875F3D50168.udd" 2147
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_5F9243BA4CB90C53DB78CFBBD610A58__5AF60D1F518360861D90E4DBC89DCD38D2F1FDB7.udd" 2148
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2149
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2150
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2151
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2152
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2153
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2154
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2155
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2156
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2157
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2158
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2159
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2160
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2161
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C213D02C431A0CDFC2C614B123A73__A7584846CC6ED596A1252D69C58864A096E1BA16.udd" 2162
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C213D02C431A0CDFC2C614B123A73__1C9C1BCFCC2FBE9EA6C639CD5650E05C41F8F04B.udd" 2163
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2164
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2165
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2166
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2167
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/Demo_TileMap.uasset" 2168
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Level/ui_ground_block_2x_TileSet.uasset" 2169
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2170
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/Cues/01_Title_Screen_Cue.uasset" 2171
-"../../../../../../Users/Administrator/Documents/Unreal Projects/GAME2373_Project01/Content/MyGame/Sound/01_Title_Screen.uasset" 2172
-"C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_9E2A6A08446C3D28D89ACFBDD61807BA.udd" 2173
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 1907
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 1908
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 1909
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 1910
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 1911
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 1912
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1913
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1914
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1915
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1916
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1917
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1918
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1919
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 1920
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 1921
+"C:/Users/w207710223/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/SourceControlSettings.ini" 1922
+"../../../Engine/Content/EditorResources/S_Note.uasset" 1923
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 1924
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 1925
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 1926
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1927
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1928
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1929
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1930
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1931
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1932
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1933
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 1934
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 1935
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 1936
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 1937
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 1938
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 1939
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 1940
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 1941
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 1942
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 1943
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 1944
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 1945
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 1946
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 1947
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 1948
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 1949
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 1950
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 1951
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1952
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/c90e3f55.bin" 1953
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Widgets/MyHUD.uasset" 1954
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/TitleScene.umap" 1955
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Tutorial.umap" 1956
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Demo.umap" 1957
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/EndingScene.umap" 1958
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1959
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1960
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1961
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1962
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1963
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1964
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1965
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Intermediate/AssetRegistryCache/80733c15.bin" 1966
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" 1967
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Maps/Minimal_Default.umap" 1968
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Maps/StarterMap.umap" 1969
+"../../../Engine/Content/Maps/Templates/TimeOfDay_Default.umap" 1970
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" 1971
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" 1972
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/2DSideScrollerGameMode.uasset" 1973
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/MyCharacter.uasset" 1974
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Background.uasset" 1975
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Checkpoint.uasset" 1976
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_1.uasset" 1977
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_2.uasset" 1978
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_5.uasset" 1979
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_EdgeL.uasset" 1980
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Floor_EdgeR.uasset" 1981
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Goal.uasset" 1982
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Objects/Spike.uasset" 1983
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1984
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1985
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1986
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1987
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1988
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1989
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1990
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1991
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1992
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1993
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1994
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1995
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 1996
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1997
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1998
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1999
+"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 2000
+"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 2001
+"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 2002
+"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 2003
+"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 2004
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 2005
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 2006
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 2007
+"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 2008
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 2009
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 2010
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 2011
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 2012
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 2013
+"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 2014
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 2015
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 2016
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 2017
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 2018
+"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 2019
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 2020
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 2021
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 2022
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 2023
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 2024
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 2025
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 2026
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 2027
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 2028
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 2029
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 2030
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 2031
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 2032
+"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 2033
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 2034
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 2035
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 2036
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 2037
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 2038
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 2039
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 2040
+"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 2041
+"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 2042
+"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 2043
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 2044
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 2045
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 2046
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 2047
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 2048
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 2049
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 2050
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 2051
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 2052
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 2053
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 2054
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 2055
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 2056
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 2057
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 2058
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 2059
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 2060
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 2061
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 2062
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 2063
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 2064
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 2065
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 2066
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Widgets/EndingMenu.uasset" 2067
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Widgets/LevelComplete.uasset" 2068
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Widgets/LevelComplete2.uasset" 2069
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Widgets/LostMenu.uasset" 2070
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Widgets/PauseMenu.uasset" 2071
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Widgets/TitleMenu.uasset" 2072
+"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 2073
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 2074
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 2075
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 2076
+"../../../Engine/Config//BaseEngine.ini" 2077
+"../../../Engine/Config/Unix/UnixEngine.ini" 2078
+"../../../Engine/Config/Linux/LinuxEngine.ini" 2079
+"../../../Engine/Config/LinuxAArch64/LinuxAArch64Engine.ini" 2080
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 2081
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2082
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 2083
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" 2084
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Flipbook/DeadAnimation.uasset" 2085
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/ball_pop_2x_Sprite.uasset" 2086
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Flipbook/IdleAnimation.uasset" 2087
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/ball_small_2x_Sprite.uasset" 2088
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 2089
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Cues/Big_Jump_Cue.uasset" 2090
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Big_Jump.uasset" 2091
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Cues/Coin_Cue.uasset" 2092
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Coin.uasset" 2093
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/ui_bounce_block_2x.uasset" 2094
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/5/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_22F4243F40DD14C518570AA38D6DDF27.udd" 2095
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/ball_pop_2x.uasset" 2096
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_697C5D994F07E4925B96CC814D9C0D4B.udd" 2097
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/ball_small_2x.uasset" 2098
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_70B56459468B36FB9A5E0CA799B32__58B015B31BF2C97A34E6B12A3AE8FEAE5D943284.udd" 2099
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/6/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_E75DC5924387A4674383CA8B27B6B__6DF2D57350F9389D363386D7905B3BD2EF863F6E.udd" 2100
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/0/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_82AFDF684EEF2A4476B6B09600237__290E2DCFE97F58B8AE8B6D2F04EA30888ED58289.udd" 2101
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 2102
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 2103
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Cues/10_Ending_Cue.uasset" 2104
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/10_Ending.uasset" 2105
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/2/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_9CECAED54C44AE64DE048BBA66B0E7B9.udd" 2106
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2107
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 2108
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Background_Sprite1.uasset" 2109
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Cues/03_Stage_Theme_Cue.uasset" 2110
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/03_Stage_Theme.uasset" 2111
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Cues/08_Life_Lost_Cue.uasset" 2112
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/08_Life_Lost.uasset" 2113
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/ring_big_bottom_2x_Sprite.uasset" 2114
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/ring_big_catched_bottom_2x_Sprite.uasset" 2115
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/ring_big_catched_top_2x_Sprite.uasset" 2116
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/ring_big_top_2x_Sprite.uasset" 2117
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Cues/1up_Cue.uasset" 2118
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/1up.uasset" 2119
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/ui_ground_block_2x_Sprite.uasset" 2120
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/checkpoint_2x_Sprite.uasset" 2121
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/05_Stage_Complete.uasset" 2122
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Sprite/thorn_2x_Sprite.uasset" 2123
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Cues/Kick_Cue.uasset" 2124
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Kick.uasset" 2125
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/3/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_2FDD22A742088CE9CFAAB0A13E88A7B7.udd" 2126
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Background.uasset" 2127
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/7/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_3406A3D84705798C35E90983E5DE0885.udd" 2128
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/6/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_FF6AF598455B3E70FCB2558F365CA1FF.udd" 2129
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/thorn_2x.uasset" 2130
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/4/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_4289AA75448068EAE6995D85B0FE17E5.udd" 2131
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/checkpoint_2x.uasset" 2132
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/ui_ground_block_2x.uasset" 2133
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/3/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_C815804C41D4EA225AAB12B9C95C3A7F.udd" 2134
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/ring_big_top_2x.uasset" 2135
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/ring_big_catched_top_2x.uasset" 2136
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/ring_big_catched_bottom_2x.uasset" 2137
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Character/Textures/ring_big_bottom_2x.uasset" 2138
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_6269A5DA4AEB5DB17536A7A52B0E4__C31E49EC7EFEEA791BC1219F99E8D5CBFD1F8E92.udd" 2139
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/2/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_41E95B42459219C9D486099D45982__370620DBA89C5A82736E253362FE3D7BAA66D846.udd" 2140
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_7C68BA954B8F6A3BCD75D3B3B57C2__E8F98BB4AC84D28F421786E9FC09004F7975924A.udd" 2141
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/9/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_CAA6CF1048496AB683DD249EDEF64__776C73809F802EEC3737E4FD5A3A240E0E14F2C4.udd" 2142
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C213D02C431A0CDFC2C614B123A73__A7584846CC6ED596A1252D69C58864A096E1BA16.udd" 2143
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_C213D02C431A0CDFC2C614B123A73__1C9C1BCFCC2FBE9EA6C639CD5650E05C41F8F04B.udd" 2144
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/1/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_CCF023C24A502EEEEAE7D384EC611__4BB244985420B5364E8F3BB0FF543C9702ADD62E.udd" 2145
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_5F9243BA4CB90C53DB78CFBBD610A58__5AF60D1F518360861D90E4DBC89DCD38D2F1FDB7.udd" 2146
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_224548F848F0D1B529A9EB9F7E446__D0D9ABF7F4D5ED6E47F97D96B93FB875F3D50168.udd" 2147
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 2148
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 2149
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 2150
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 2151
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 2152
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 2153
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 2154
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 2155
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 2156
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 2157
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 2158
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 2159
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 2160
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 2161
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 2162
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 2163
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 2164
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/Demo_TileMap.uasset" 2165
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Level/ui_ground_block_2x_TileSet.uasset" 2166
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 2167
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/Cues/01_Title_Screen_Cue.uasset" 2168
+"../../../../Users/w207710223/Documents/GitHub/GAME2373_Project01/Content/MyGame/Sound/01_Title_Screen.uasset" 2169
+"C:/Users/w207710223/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/AUDIO_0005_0000_OGG10025600$2D1$2D1$2D1$2D1$2D1_0003_9E2A6A08446C3D28D89ACFBDD61807BA.udd" 2170
